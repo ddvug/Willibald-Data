@@ -1,0 +1,7 @@
+INSERT INTO [Kunden] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('', '146', 'Gold', '2.0', '15.01.2025')
+INSERT INTO [Kunden] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('VolleRose', '218', 'Bronze', '0.0', '15.01.2025')
+INSERT INTO [Kunden] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('Blaetterglueck', '84', 'Gold', '2.0', '15.01.2025')
+INSERT INTO [Kunden] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('GlückAuf', '5', 'Silber', '1.0', '15.01.2025')
+INSERT INTO [Kunden] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('WochenendGLück', '99', 'Silber', '1.0', '15.01.2025')
+INSERT INTO [Kunden] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('Druff1848', '42', 'Silber', '1.0', '15.01.2025')
+INSERT INTO [Kunden] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('Abendröte', '300', 'Gold', '2.0', '15.01.2025')
