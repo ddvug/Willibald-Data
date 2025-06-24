@@ -1,4 +1,4 @@
-INSERT INTO [Kunden] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('', '146', 'Gold', '2.0', '01.02.2025')
+INSERT INTO [Kunden] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('Morgenstern', '146', 'Gold', '2.0', '01.02.2025')
 INSERT INTO [Kunden] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('VolleRose', '218', 'Silber', '1.0', '20.01.2025')
 INSERT INTO [Kunden] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('Blaetterglueck', '84', 'Bronze', '0.0', '10.01.2025')
 INSERT INTO [Kunden] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('GlückAuf', '5', '', '', '01.02.2025')
